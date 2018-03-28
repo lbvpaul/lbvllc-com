@@ -14,7 +14,12 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$primary: #fed136 !default;
+$lbv-green: #508104;
+$lbv-orange: #f3b800;
+$lbv-red: #b64201;
+
+
+$primary: $lbv-red !default;
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i');
 
@@ -22,3 +27,8 @@ $primary: #fed136 !default;
 $font-family-sans-serif:      Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $font-family-monospace:       "Courier New", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
+
+.service-icon {
+  color: $lbv-green;
+  font-size: 120px;
+}
