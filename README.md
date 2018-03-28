@@ -8,6 +8,15 @@ composer install
 gulp
 ````
 
+## To run local and beable to test contact form
+
+````
+php -S 127.0.0.1:4444
+````
+
+[Now Visit the site at http://127.0.0.1:4444](http://127.0.0.1:4444)
+
+
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
