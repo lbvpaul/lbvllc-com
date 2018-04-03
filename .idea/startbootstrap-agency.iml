@@ -24,7 +24,6 @@
           <root url="file://$MODULE_DIR$/vendor/font-awesome/fonts" />
           <root url="file://$MODULE_DIR$/vendor/font-awesome/less" />
           <root url="file://$MODULE_DIR$/vendor/font-awesome/scss" />
-          <root url="file://$MODULE_DIR$/vendor/mobirise/css" />
           <root url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
         </CLASSES>
         <SOURCES>
@@ -35,7 +34,6 @@
           <root url="file://$MODULE_DIR$/vendor/font-awesome/fonts" />
           <root url="file://$MODULE_DIR$/vendor/font-awesome/less" />
           <root url="file://$MODULE_DIR$/vendor/font-awesome/scss" />
-          <root url="file://$MODULE_DIR$/vendor/mobirise/css" />
           <root url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
         </SOURCES>
       </library>
