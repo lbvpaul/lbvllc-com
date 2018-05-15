@@ -120,6 +120,7 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   color: #b64201;
+  font-size: 80%;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
