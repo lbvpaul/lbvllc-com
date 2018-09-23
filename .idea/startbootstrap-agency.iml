@@ -14,29 +14,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="PHP" type="php">
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bootstrap/css" />
-          <root url="file://$MODULE_DIR$/vendor/bootstrap/js" />
-          <root url="file://$MODULE_DIR$/vendor/composer" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/css" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/fonts" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/less" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/scss" />
-          <root url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
-        </CLASSES>
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bootstrap/css" />
-          <root url="file://$MODULE_DIR$/vendor/bootstrap/js" />
-          <root url="file://$MODULE_DIR$/vendor/composer" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/css" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/fonts" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/less" />
-          <root url="file://$MODULE_DIR$/vendor/font-awesome/scss" />
-          <root url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
-        </SOURCES>
-      </library>
-    </orderEntry>
   </component>
 </module>
